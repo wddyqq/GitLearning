@@ -8,5 +8,6 @@ public class Ver1 {
         System.out.println("master_conflict");
         System.out.println("hot_fix_conflict");
         System.out.println("push github");
+        System.out.println("pull ieda");
     }
 }
