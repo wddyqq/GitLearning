@@ -6,5 +6,6 @@ public class Ver1 {
         System.out.println("This is ver3");
         System.out.println("This is ver4");
         System.out.println("master_conflict");
+        System.out.println("hot_fix_conflict");
     }
 }
